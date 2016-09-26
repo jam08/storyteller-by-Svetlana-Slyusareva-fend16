@@ -1,9 +1,8 @@
 He is so ugly, hairy, dirty and boring
-<<<<<<< HEAD
 
 He is so Ugly
 very very ugly
 very very ugly again.
 
-=======
->>>>>>> newStory
+newStory
+
